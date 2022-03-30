@@ -1,0 +1,2 @@
+rootProject.name='AccessibilityService1'
+include ':app'
